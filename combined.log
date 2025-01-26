@@ -179,3 +179,6 @@
 {"level":"info","message":"::1 - - [26/Jan/2025:06:12:49 +0000] \"POST /query HTTP/1.1\" 200 39 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36\"","timestamp":"2025-01-26T06:12:49.781Z"}
 {"level":"info","message":"::1 - - [26/Jan/2025:06:12:56 +0000] \"POST /query HTTP/1.1\" 200 1195 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36\"","timestamp":"2025-01-26T06:12:56.892Z"}
 {"level":"info","message":"::1 - - [26/Jan/2025:10:01:57 +0000] \"POST /query HTTP/1.1\" 200 1195 \"http://localhost:3001/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0\"","timestamp":"2025-01-26T10:01:57.230Z"}
+{"level":"info","message":"Server is running on port 5001","timestamp":"2025-01-26T10:48:32.221Z"}
+{"level":"info","message":"::1 - - [26/Jan/2025:10:49:15 +0000] \"POST /query HTTP/1.1\" 200 1195 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0\"","timestamp":"2025-01-26T10:49:15.990Z"}
+{"level":"info","message":"Server is running on port 5001","timestamp":"2025-01-26T11:11:42.608Z"}
